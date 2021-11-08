@@ -16,6 +16,9 @@ Every 10 seconds, the application retrieves the current Bitcoin information and 
 # REST API
 It has two functionalities available in two endpoints:
 
+## Timestamp format
+    ISO Date Time Format yyyy-MM-dd'T'HH:mm:ss.SSS 
+
 ## Obtain Bitcoin price in a certain Timestamp provided by the User:
 
 ### Request

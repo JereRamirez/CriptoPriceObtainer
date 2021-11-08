@@ -2,10 +2,12 @@
 Application that enables you to retrieve Bitcoin information from external service and get some analitics from the information retrieved.
 
 
-## Run the app
+## Run the APP
     The aplication can be run directly from IntelliJ.
     With maven installed, navigate to the root of the project and excecute: mvn spring-boot:run in the command line
 
+## Database
+    It has an H2 in memory database where every information retrieved from the external service is persisted
 
 # SCHEDULED SERVICE
 Every 10 seconds, the application retrieves the current Bitcoin information and persists it into the Database.

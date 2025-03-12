@@ -1,5 +1,5 @@
 # CriptoPriceObtainer
-Application that enables you to retrieve Bitcoin information from external service and get some analitics from the information retrieved.
+Application that retrieves Bitcoin information from external service and returns some analitics from the information retrieved.
 
 
 ## Run the APP
